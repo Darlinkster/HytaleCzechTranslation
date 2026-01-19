@@ -1,0 +1,15 @@
+style.fantasy = Fantasy
+style.modern = Moderní
+style.costume = Kostým
+style.special = Speciální
+
+haircut.short = Krátké vlasy
+haircut.medium = Střední vlasy
+haircut.long = Dlouhé vlasy
+HairLength.Short.name = Krátké
+HairLength.Medium.name = Střední
+HairLength.Long.name = Dlouhé
+Style.Fantasy.name = Fantasy
+Style.Modern.name = Moderní
+Style.Costume.name = Kostým
+Style.Special.name = Speciální
